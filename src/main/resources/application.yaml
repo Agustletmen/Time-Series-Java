@@ -1,0 +1,6 @@
+influx:
+  url: http://localhost:8086
+  org: xs
+  bucket: xs
+  token: akaP-JPJaxngjLE-7wXYhqCwWWShNvkdOOppodNOpsXragU4fKssiYiTib1dKCUSHaz2Byrox9qOPdn0LcG2BQ==
+
